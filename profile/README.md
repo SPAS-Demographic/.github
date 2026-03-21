@@ -5,7 +5,7 @@
 
 ## What We Do
 
-We compile, harmonize, and publish sub-national population data by age and sex for low- and middle-income countries worldwide. Our collection integrates data from multiple international demographic programs and pairs them with geographic boundary files, enabling spatially explicit analysis of population composition at fine spatial scales.
+We compile, harmonize, and publish sub-national population data by age and sex worldwide. Our collection integrates data from multiple international demographic programs and pairs them with geographic boundary files, enabling spatially explicit analysis of population composition at fine spatial scales.
 
 ## Repositories
 
