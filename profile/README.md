@@ -20,10 +20,6 @@ We compile, harmonize, and publish sub-national population data by age and sex f
 |------------|-------------|
 | [**AgeSex-Pop**](https://github.com/SPAS-Demographic/AgeSex-Pop) | Main data collection: sub-national age-sex distributions in GeoPackage format |
 
-## Spatial Approach
-
-We preserve year-specific administrative boundaries and use the Global Human Settlement Layer (GHSL) built-up land rasters to identify plausible habitation points within each unit. This approach retains meaningful spatial variation from 1975 to the present.
-
 ## Team
 
 - Mark R. Montgomery (Stony Brook University)
