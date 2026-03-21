@@ -50,7 +50,3 @@ Rather than forcing heterogeneous sub-national boundaries into artificially harm
 - Juan F. Martinez (CIESIN, Columbia University)
 - Aleksander Berg (University of Colorado, Boulder)
 - Tsu P. Zhu (CUNY Institute for Demographic Research)
-
-## Citation
-
-> Montgomery, M.R., Agu, E.J., Balk, D., Carioli, A., Leyk, S., Noi, E., Zhu, T.P., and Martinez, J.F. (2026). Subnational Population and Administrative Spatial (SPAS) Data Collection.
