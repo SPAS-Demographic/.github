@@ -3,16 +3,9 @@
 
 ![](../images/SPAS-logo.png)
 
-**Subnational Population and Administrative Spatial (SPAS) Data Collection**
-
-We compile, harmonize, and publish sub-national population data by age and sex for low- and middle-income countries worldwide. Our collection integrates data from multiple international demographic programs and pairs them with geographic boundary files, enabling spatially explicit analysis of population composition at fine spatial scales.
-
 ## What We Do
 
-- **Assemble** sub-national age-sex distributions from censuses and household surveys spanning the 1960s to the present
-- **Link** demographic tabulations to sub-national administrative boundary files (GeoPackages)
-- **Assess** data quality against international benchmarks (UN World Population Prospects)
-- **Distribute** the collection as open-access, spatially referenced datasets
+We compile, harmonize, and publish sub-national population data by age and sex for low- and middle-income countries worldwide. Our collection integrates data from multiple international demographic programs and pairs them with geographic boundary files, enabling spatially explicit analysis of population composition at fine spatial scales.
 
 ## Repositories
 
