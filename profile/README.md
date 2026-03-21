@@ -22,7 +22,7 @@ We compile, harmonize, and publish sub-national population data by age and sex f
 
 ## Spatial Approach
 
-Rather than forcing heterogeneous sub-national boundaries into artificially harmonized units, we preserve year-specific administrative boundaries and use the Global Human Settlement Layer (GHSL) built-up land rasters to identify plausible habitation points within each unit. This approach retains meaningful spatial variation from 1975 to the present.
+We preserve year-specific administrative boundaries and use the Global Human Settlement Layer (GHSL) built-up land rasters to identify plausible habitation points within each unit. This approach retains meaningful spatial variation from 1975 to the present.
 
 ## Team
 
