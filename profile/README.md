@@ -46,13 +46,10 @@ Rather than forcing heterogeneous sub-national boundaries into artificially harm
 - Deborah Balk (CUNY Institute for Demographic Research)
 - Alessandra Carioli (Joint Research Centre, European Commission)
 - Stefan Leyk (University of Colorado, Boulder)
+- Evgeny Noi (University of Bristol)
 - Juan F. Martinez (CIESIN, Columbia University)
 - Tsu P. Zhu (CUNY Institute for Demographic Research)
 
 ## Citation
 
 > Montgomery, M.R., Agu, E.J., Balk, D., Carioli, A., Leyk, S., Noi, E., Zhu, T.P., and Martinez, J.F. (2026). Subnational Population and Administrative Spatial (SPAS) Data Collection.
-
-## Contact
-
-For questions or contributions, please open an issue in the relevant repository or contact the team at [mark.montgomery@stonybrook.edu](mailto:mark.montgomery@stonybrook.edu).
