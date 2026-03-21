@@ -1,7 +1,7 @@
 
 
 # SPAS Demographic Population - AgeSex Data
-![](../images/SPAS-logo.png){ width: 100%; }
+![](../images/SPAS-logo.png) 
 
 ## Welcome 
 
