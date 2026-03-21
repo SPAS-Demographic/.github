@@ -14,21 +14,6 @@ We compile, harmonize, and publish sub-national population data by age and sex f
 - **Assess** data quality against international benchmarks (UN World Population Prospects)
 - **Distribute** the collection as open-access, spatially referenced datasets
 
-## Data Sources
-
-Our collection draws on:
-
-| Source | Type | Coverage |
-|--------|------|----------|
-| **DHS** | Household survey micro-data | 350+ surveys, 80+ countries, 1986-2023 |
-| **IPUMS-I** | Census micro-data samples | 320 datasets, 1962-2020 |
-| **MICS** | Household survey micro-data | 250+ surveys, 1999-2023 |
-| **USCB** | Full-census tabulations | 58 censuses, 2002-2023 |
-| **NSO** | National statistical office tabulations | Ongoing collection |
-| **IHGIS** | Historical census tabulations | Selected countries |
-| **WFS** | Early survey micro-data | 25 surveys, 1974-1980 |
-| **REDATAM** | Full census micro-data | Latin America, 1991-2020 |
-
 ## Repositories
 
 | Repository | Description |
