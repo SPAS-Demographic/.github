@@ -48,6 +48,7 @@ Rather than forcing heterogeneous sub-national boundaries into artificially harm
 - Stefan Leyk (University of Colorado, Boulder)
 - Evgeny Noi (University of Bristol)
 - Juan F. Martinez (CIESIN, Columbia University)
+- Aleksander Berg (University of Colorado, Boulder)
 - Tsu P. Zhu (CUNY Institute for Demographic Research)
 
 ## Citation
