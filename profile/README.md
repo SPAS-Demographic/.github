@@ -1,4 +1,4 @@
-![](../images/SPAS-logo.png){width=70%}
+![](../images/SPAS-logo.png)
 
 ## What We Do
 
