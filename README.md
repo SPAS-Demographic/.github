@@ -14,7 +14,7 @@ We compile, harmonize, and publish sub-national population data by age and sex w
 
 ## Where to find the data
 
-- 📦 **[AgeSex-Pop](https://github.com/SPAS-Demographic/AgeSex-Pop)** — main data collection (GeoPackage). *Currently private; public release planned after peer review.*
+- 📦 **[AgeSex-Pop](https://github.com/SPAS-Demographic/AgeSex-Pop)** — main data collection (GeoPackage).
 
 ## Team
 
