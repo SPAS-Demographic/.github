@@ -18,4 +18,12 @@ We compile, harmonize, and publish sub-national population data by age and sex w
 
 ## Team
 
-Mark R. Montgomery (Stony Brook) · Deborah Balk (CUNY IDR) · Emanuel Agu (CUNY IDR) · Tsu P. Zhu (CUNY IDR) · Juan F. Martinez (CIESIN, Columbia) · Alessandra Carioli (JRC, European Commission) · Stefan Leyk (CU Boulder) · Evgeny Noi (Bristol) · Aleksander Berg (CU Boulder)
+- Mark R. Montgomery (Stony Brook University)
+- Deborah Balk (CUNY Institute for Demographic Research)
+- Emanuel Agu (CUNY Institute for Demographic Research)
+- Tsu P. Zhu (CUNY Institute for Demographic Research)
+- Juan F. Martinez (CIESIN, Columbia University)
+- Alessandra Carioli (Joint Research Centre, European Commission)
+- Stefan Leyk (University of Colorado, Boulder)
+- Evgeny Noi (University of Bristol)
+- Aleksander Berg (University of Colorado, Boulder)
