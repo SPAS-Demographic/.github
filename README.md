@@ -15,6 +15,7 @@ We compile, harmonize, and publish sub-national population data by age and sex w
 ## Where to find the data
 
 - 📦 **[AgeSex-Pop](https://github.com/SPAS-Demographic/AgeSex-Pop)** — main data collection (GeoPackage).
+- 📘 **[SPAS_Polygon_to_Raster_Primer](https://github.com/SPAS-Demographic/SPAS_Polygon_to_Raster_Primer)** — primer on working with SPAS polygon data and converting it to raster format in R.
 
 ## Team
 
